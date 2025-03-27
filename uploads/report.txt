@@ -1,0 +1,7 @@
+Detected Diseases:
+- opacity: 56.79%
+  Details: Opacity refers to the clouding of the lens of the eye, which can affect vision.
+- macular edema: 52.57%
+  Details: Macular edema is the buildup of fluid in the macula, leading to vision loss.
+- retinal vascular occlusion: 66.46%
+  Details: Retinal vascular occlusion occurs when blood flow to the retina is blocked.
